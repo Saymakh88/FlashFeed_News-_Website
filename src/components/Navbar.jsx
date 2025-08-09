@@ -4,7 +4,7 @@ const Navbar = ({ setCategory }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-orange-600 text-white shadow-md">
+    <nav className="bg-orange-600 text-white shadow-md fixed top-0 left-0 w-full z-50">
       <div className="container mx-auto flex justify-between items-center">
         {/* LOGO */}
         <h1 className="font-bold text-2xl m-2 px-[100px]">FlashFeed</h1>

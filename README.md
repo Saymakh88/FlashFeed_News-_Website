@@ -23,7 +23,44 @@ src/
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/flashfeed.git
    cd flashfeed
    ```
+
+2. **Install dependencies**
+   npm install
+
+3. **Run development server**
+   npm run dev
+
+## 📖 Usage
+
+    Click on a category in the navbar to load relevant news.
+
+    On mobile devices, tap the hamburger menu to reveal categories.
+
+    Categories automatically close the menu when clicked.
+
+## 🎨 Technologies Used
+
+    React – Frontend framework
+
+    Tailwind CSS – Utility-first CSS framework
+
+    JavaScript (ES6+) – Application logic
+
+## 📱 Responsive Design
+
+    Desktop: Categories are displayed horizontally in the navbar
+
+    Mobile: Categories appear in a slide-down hamburger menu
+
+## 🖼️ Screenshot
+
+## 🖼️ Screenshot
+
+    ![FlashFeed Screenshot](public/flashfeed_homepage.png)
+
+    ![FlashFeed Screenshot](flashfeed_categories.png)
