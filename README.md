@@ -61,6 +61,6 @@ src/
 
 ## 🖼️ Screenshot
 
-    ![FlashFeed Screenshot](public/flashfeed_homepage.png)
+    ![FlashFeed Screenshot](./public/flashfeed_homepage.png)
 
-    ![FlashFeed Screenshot](flashfeed_categories.png)
+    ![FlashFeed Screenshot](./public/flashfeed_categories.png)
