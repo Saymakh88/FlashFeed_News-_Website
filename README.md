@@ -27,7 +27,7 @@ src/
 
 1. **Clone the repository**
 
-````bash
+```bash
 git clone https://github.com/yourusername/flashfeed.git
 cd flashfeed
 
@@ -40,7 +40,7 @@ npm install
 3. **Run development server**
 
 npm run dev
-        ````
+        ```
 
 ## 📖 Usage
 
