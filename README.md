@@ -30,11 +30,13 @@ src/
 ```bash
 git clone https://github.com/yourusername/flashfeed.git
 cd flashfeed
+        ```
 
 
 2. **Install dependencies**
-
+```bash
 npm install
+        ```
 
 
 3. **Run development server**
