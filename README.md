@@ -30,18 +30,17 @@ src/
 ````bash
 git clone https://github.com/yourusername/flashfeed.git
 cd flashfeed
-        ```
+
 
 2. **Install dependencies**
 
-```bash
 npm install
-        ```
+
 
 3. **Run development server**
-```bash
+
 npm run dev
-        ```
+        ````
 
 ## 📖 Usage
 
@@ -65,3 +64,4 @@ npm run dev
 ![FlashFeed Screenshot](./public/flashfeed_homepage.png)
 
 ![FlashFeed Screenshot](./public/flashfeed_categories.png)
+
