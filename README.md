@@ -30,25 +30,25 @@ src/
 ```bash
 git clone https://github.com/yourusername/flashfeed.git
 cd flashfeed
-        ```
-
+```
 
 2. **Install dependencies**
+
 ```bash
 npm install
-        ```
-
+```
 
 3. **Run development server**
-
+```bash
 npm run dev
-        ```
+```
 
 ## 📖 Usage
 
 - Click on a category in the navbar to load relevant news.
 - On mobile devices, tap the hamburger menu to reveal categories.
 - Categories automatically close the menu when clicked.
+
 
 ## 🎨 Technologies Used
 
@@ -66,4 +66,5 @@ npm run dev
 ![FlashFeed Screenshot](./public/flashfeed_homepage.png)
 
 ![FlashFeed Screenshot](./public/flashfeed_categories.png)
+
 
