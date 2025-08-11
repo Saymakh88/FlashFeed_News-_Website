@@ -65,6 +65,3 @@ npm run dev
 ![FlashFeed Screenshot](./public/flashfeed_homepage.png)
 
 ![FlashFeed Screenshot](./public/flashfeed_categories.png)
-
-
-````
